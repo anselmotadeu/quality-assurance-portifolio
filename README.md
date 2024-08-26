@@ -1,2 +1,44 @@
-# quality-assurance-portifolio
-Repositório criado com o propósito de servir com um portifólio para o time de qualidade.
+# Documentação de Qualidade
+
+🔍 **Sobre o Projeto:**
+Este projeto de **Documentação de Qualidade** foi criado com o objetivo de reunir e compartilhar as melhores práticas de automação de testes. A documentação abrange uma variedade de ferramentas e metodologias utilizadas para garantir a qualidade de software, incluindo **Cypress**, **Appium**, **Postman**, e outras tecnologias, todas implementadas em **JavaScript**.
+
+**Arquitetura de Testes:**
+- **Testes de Front-end e Back-end com Cypress**: Implementação de testes para garantir a qualidade tanto na interface do usuário quanto nos serviços de back-end.
+- **Automação Mobile com Appium**: Automação de testes em aplicativos móveis para plataformas Android e iOS.
+- **Testes de API com Postman**: Verificação e validação de endpoints de API, assegurando a integridade dos serviços.
+
+**Boas Práticas:**
+- **Planejamento e Execução de Testes**: Metodologias e padrões para garantir que todos os testes sejam bem planejados e executados de maneira eficaz.
+- **Atuação em Sprints**: Estratégias para QAs atuarem de maneira eficiente em sprints ágeis, contribuindo para a qualidade em todas as fases do desenvolvimento.
+
+**Documentação Dinâmica:**
+Este projeto é **vivo** e será atualizado regularmente para incorporar as mais recentes práticas e ferramentas do mercado. Volte sempre para conferir as novidades!
+
+## Ferramentas e Linguagens
+<div style="display: inline_block"><br/>
+<!--     <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> -->
+    <img aling="center" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+<!--     <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
+    <img aling="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img aling="center" alt="appium" src="https://img.shields.io/badge/Appium-4727A0?style=for-the-badge&logo=appium&logoColor=white">
+    <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img aling="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+
+</div><br/>
+
+**Selo de Qualidade:**
+1. **Proatividade e Autonomia:**
+    - Sempre busco soluções inovadoras e tomo decisões de forma segura e independente, contribuindo para a qualidade dos projetos.
+2. **Aprendizado Contínuo:**
+    - Tenho uma grande paixão por aprender e me mantenho atualizado com as últimas tendências em automação e qualidade de software.
+3. **Comunicação Eficaz:**
+    - Possuo habilidades sólidas de comunicação, tanto escrita quanto verbal, e sou capaz de transmitir ideias de forma clara e objetiva.
+4. **Trabalho em Equipe:**
+    - Acredito fortemente na colaboração e trabalho de forma integrada com as equipes para alcançar os objetivos comuns.
+
+##### Você me encontra em:
+<a href="https://www.linkedin.com/in/anselmo-santos-0114b5172/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
