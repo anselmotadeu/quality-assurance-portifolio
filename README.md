@@ -36,6 +36,8 @@ Este projeto é **vivo** e será atualizado regularmente para incorporar as mais
 4. **Colaboração para o Sucesso:**
     - Acredito que a verdadeira excelência é alcançada através da colaboração. Trabalho de maneira integrada com as equipes, sempre focando em metas comuns e resultados extraordinários.
 
+[**Confira aqui todas as documentações**](https://github.com/anselmotadeu/quality-assurance-portifolio/wiki)
+
 ##### Você me encontra em:
 <a href="https://www.linkedin.com/in/anselmo-santos-0114b5172/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
