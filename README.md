@@ -30,13 +30,13 @@ Este projeto é **vivo** e será atualizado regularmente para incorporar as mais
 
 **Selo de Qualidade:**
 1. **Proatividade e Autonomia:**
-    - Sempre busco soluções inovadoras e tomo decisões de forma segura e independente, contribuindo para a qualidade dos projetos.
-2. **Aprendizado Contínuo:**
-    - Tenho uma grande paixão por aprender e me mantenho atualizado com as últimas tendências em automação e qualidade de software.
-3. **Comunicação Eficaz:**
-    - Possuo habilidades sólidas de comunicação, tanto escrita quanto verbal, e sou capaz de transmitir ideias de forma clara e objetiva.
-4. **Trabalho em Equipe:**
-    - Acredito fortemente na colaboração e trabalho de forma integrada com as equipes para alcançar os objetivos comuns.
+    - Busco constantemente soluções criativas e tomo decisões com confiança, sempre focando em agregar valor e elevar a qualidade dos projetos.
+2. **Comprimisso com o Aprendizado:**
+    - Sou movido pela paixão por aprendizado contínuo e estou sempre em busca das últimas inovações em automação e garantia de qualidade.
+3. **Comunicação Clara e Impactante:**
+    - Tenho habilidades de comunicação refinadas, tanto na escrita quanto na fala, garantindo que minhas ideias sejam transmitidas de maneira clara e convincente.
+4. **Colaboração para o Sucesso:**
+    - Acredito que a verdadeira excelência é alcançada através da colaboração. Trabalho de maneira integrada com as equipes, sempre focando em metas comuns e resultados extraordinários.
 
 ##### Você me encontra em:
 <a href="https://www.linkedin.com/in/anselmo-santos-0114b5172/" target="_blank">
